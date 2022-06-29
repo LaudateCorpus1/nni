@@ -29,7 +29,7 @@
     "monaco-editor": "^0.25.0",
     "monaco-editor-webpack-plugin": "^4.0.0",
     "node-sass": "^7.0.0",
-    "npm": ">=8.3.0",
+    "npm": ">=8.11.0",
     "parcoord-es": "^2.2.10",
     "pnp-webpack-plugin": "^1.6.4",
     "postcss-flexbugs-fixes": "^5.0.2",
