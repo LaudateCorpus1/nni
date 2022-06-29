@@ -21,7 +21,7 @@
     "js-base64": "^3.6.1",
     "kubernetes-client": "^6.12.1",
     "lockfile": "^1.0.4",
-    "npm": ">=8.3.0",
+    "npm": ">=8.11.0",
     "python-shell": "^3.0.0",
     "rx": "^4.1.0",
     "sqlite3": "5.0.3",
