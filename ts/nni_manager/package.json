@@ -30,7 +30,7 @@
     "tar": "^6.1.12",
     "tree-kill": "^1.2.2",
     "ts-deferred": "^1.0.4",
-    "typescript-ioc": "^1.2.6",
+    "typescript-ioc": "^3.2.2",
     "typescript-string-operations": "^1.4.1",
     "ws": "^8.10.0",
     "yargs": "^17.6.2"
